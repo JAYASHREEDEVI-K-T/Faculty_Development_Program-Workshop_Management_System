@@ -1,8 +1,3 @@
-Here is a **clean, professional, GitHub-ready README.md** for your **FDP & Workshop Management System** (MERN Stack).
-It includes **project overview, features, tech stack, folder structure, setup steps, API routes, screenshots section, and future improvements**.
-
----
-
 # 📘 **FDP & Workshop Management System**
 
 A complete **Faculty Development Program (FDP) & Workshop Management System** built using the **MERN stack**.
@@ -172,14 +167,17 @@ Your app now runs at:
 
 <img width="1456" height="914" alt="Screenshot 2025-11-15 214634" src="https://github.com/user-attachments/assets/3f6551b1-f4fe-4535-bde2-429f607e8d88" />
 
-
 ### Records Page
 
-
+<img width="1451" height="820" alt="Screenshot 2025-11-15 214656" src="https://github.com/user-attachments/assets/c1aa104c-b4d6-46da-bd19-2c7a9904a957" />
 
 ### Add Record Modal
 
-*(Add images later)*
+<img width="633" height="841" alt="Screenshot 2025-11-15 214751" src="https://github.com/user-attachments/assets/6b361999-ce52-458d-ae81-9ccbf26cd2a8" />
+
+### Reports page
+
+<img width="1428" height="629" alt="Screenshot 2025-11-15 214719" src="https://github.com/user-attachments/assets/245ea17b-5076-4990-89a3-50feb8a68b2c" />
 
 ---
 
@@ -205,11 +203,3 @@ This project is open-source under MIT License.
 
 ---
 
-If you want, I can also:
-
-✅ generate a **professional project logo**
-✅ prepare a **PDF documentation**
-✅ generate an **API documentation file**
-✅ write **comments in your code**
-
-Just tell me!
