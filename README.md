@@ -9,7 +9,7 @@ It helps institutions manage, track, and generate reports for faculty programs s
 
 Frontend: [https://faculty-development-program-workshop.onrender.com](https://faculty-development-program-workshop-inx0.onrender.com)
 
-Backend API: https://faculty-development-program-workshop.onrender.com/api/records
+Backend API: https://faculty-development-program-workshop.onrender.com
 
 Click the frontend link to interact with the deployed application directly.
 
