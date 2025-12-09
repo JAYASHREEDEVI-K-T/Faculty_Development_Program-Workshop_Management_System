@@ -145,16 +145,31 @@ npm start
 
 ## **3️⃣ Frontend Setup**
 
+3️⃣ Frontend Setup
 ```
 cd frontend
 npm install
-npm run dev
 ```
 
+Important: Before running the frontend, update the API URL in your frontend code to point to your local backend instead of the deployed Render backend.
+
+Example: in src/services/api.js (or wherever you define your API URL):
+```
+// Change this to run locally
+const API_URL = "http://localhost:5000/api";
+```
+
+Then start the frontend:
+```
+npm start
+
+```
 Your app now runs at:
 
-* **Frontend:** [http://localhost:5173](http://localhost:5173)
-* **Backend:**  [http://localhost:5000](http://localhost:5000)
+Frontend: http://localhost:3000
+ (default CRA port)
+
+Backend: http://localhost:5000
 
 ---
 
