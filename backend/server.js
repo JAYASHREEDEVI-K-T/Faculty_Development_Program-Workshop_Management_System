@@ -15,7 +15,7 @@ connectDB();
 
 // CORS Configuration
 const corsOptions = {
-  origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+  origin: "https://faculty-development-program-workshop-inx0.onrender.com",
   credentials: true,
   optionsSuccessStatus: 200
 };
